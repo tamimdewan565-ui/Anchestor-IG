@@ -101,7 +101,7 @@ module.exports = {
 ─────⭔
 │ » Type ${prefix}help <cmd> to learn.
 ├────────⭔
-│ [Redwan | xemonbae01]
+│ [ZEXN| SRABON]
 ╰─────────────
 
 🌟 Have a great time! 🌟`;
