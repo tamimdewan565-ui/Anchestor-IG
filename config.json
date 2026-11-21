@@ -44,7 +44,7 @@
   },
   "whiteListModeThread": {
     "enable": false,
-    "whiteListThreadIds": [69726787745]
+    "whiteListThreadIds": []
   },
   "autoLoadScripts": {
     "enable": false,
