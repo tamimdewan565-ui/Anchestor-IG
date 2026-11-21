@@ -1,5 +1,5 @@
 {
-  "adminBot": [],
+  "adminBot": [69726787745],
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
@@ -35,16 +35,16 @@
     "file": true,
     "keepDays": 7
   },
-  "nickNameBot": "anchestor",
-  "prefix": "-",
+  "nickNameBot": "ZERTIX",
+  "prefix": "/",
   "timeZone": "Asia/Dhaka",
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": []
+    "whiteListIds": [69726787745]
   },
   "whiteListModeThread": {
     "enable": false,
-    "whiteListThreadIds": []
+    "whiteListThreadIds": [69726787745]
   },
   "autoLoadScripts": {
     "enable": false,
